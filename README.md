@@ -1,7 +1,5 @@
 # Data Visualization | Vancouver Tree Plantation
 
-HTML Link: https://rawgit.com/panktiHT/Data-Visualization-Vancouver-Trees/master/Vancouver_Tree_analysis.html
-
 Final project - Data Visualization | UBC December 2021
 
 Data files url: 
@@ -14,3 +12,4 @@ EDA.ipynb
 Data Analysis 
 Vancouver_Tree_Analysis.html
 Vancouver_Tree_Analysis.ipynb
+**HTML Link: https://htmlpreview.github.io/?https://github.com/panktiHT/Data-Visualization-Vancouver-Trees/blob/main/Vancouver_Trees_Analysis.html**
