@@ -1,6 +1,6 @@
 # Data Visualization | Vancouver Tree Plantation
 
-HTML Link: https://rawgit.com/panktiHT/Disney-Movies-Data-Exploration/master/disney_movie_analysis.html
+HTML Link: https://rawgit.com/panktiHT/Data-Visualization-Vancouver-Trees/master/Vancouver_Tree_analysis.html
 
 Final project - Data Visualization | UBC December 2021
 
